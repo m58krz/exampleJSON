@@ -1,0 +1,18 @@
+[ {"name": "Product 1", "price": "60.00", "image": "http://partiklezoo.com/3dprinting/u0001.jpg", "description": "This is a description of the product.", "category": "Chemicals", "uid": "u0001" }, {"name": "Product 2", "price": "98.00", "image": "http://partiklezoo.com/3dprinting/u0002.jpg", "description": "This is a description of the product. Product #2", "category": "Paper Products", "uid": "u0002" },
+  {
+    "name": "Service 1",
+    "price": "99.95",
+    "image": "http://partiklezoo.com/3dprinting/u0002.jpg",
+    "description": "This is a description of our service 1.",
+    "category": "Services",
+    "uid": "u0003"
+  },
+  {
+    "name": "Custom Service",
+    "price": "1000.00",
+    "image": "http://partiklezoo.com/3dprinting/u0002.jpg",
+    "description": "This is a description of our 2nd service.",
+    "category": "Services",
+    "uid": "u0004"
+  }
+]
